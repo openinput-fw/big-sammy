@@ -16,7 +16,7 @@ Open source firmware for input devices.
 
 ## Hardware
 
-- ATSAMS70 MCU
+- ATSAMS70 MCU (ATSAMS70JxxB-M)
 - PMW3360 Optical sensor
 - onboard conectors:
     - JST PH (2mm pitch) for USB
