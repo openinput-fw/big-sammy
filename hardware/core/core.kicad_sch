@@ -3,10 +3,10 @@
   (paper "A4")
 
   (title_block
-    (title "openinput-hw")
+    (title "sammy")
     (date "2021-04-10")
     (rev "r0.0")
-    (company "openinput                                       https://github.com/perigoso/openinput-hw")
+    (company "openinput                                      https://github.com/perigoso/openinput-hw")
     (comment 2 "This source describes Open Hardware and is licensed under the CERN-OHL-Pv2")
     (comment 4 "Copyright (c) Rafael Silva <perigoso@riseup.net>")
   )
@@ -3375,6 +3375,10 @@
   (polyline (pts (xy 213.36 42.545) (xy 215.9 42.545))
     (stroke (width 0.1524) (type dot) (color 0 0 0 0))
     (uuid bcdec685-ba30-4c89-899a-3ce5c7f04f42)
+  )
+  (polyline (pts (xy 214.63 42.545) (xy 214.63 43.18))
+    (stroke (width 0.1524) (type dot) (color 0 0 0 0))
+    (uuid 5bcd4c2d-f7b4-4630-ab9f-1cc7f4544db6)
   )
   (polyline (pts (xy 220.98 42.545) (xy 223.52 42.545))
     (stroke (width 0.1524) (type dot) (color 0 0 0 0))

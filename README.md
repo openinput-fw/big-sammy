@@ -1,8 +1,8 @@
-# openinput-hw (to be renamed)
+# sammy
 
 [<img src="assets/logo.svg" alt="" width="20%" align="right">](https://github.com/openinput-fw)
 
-Open source firmware for input devices.
+Open source wired mouse hardware.
 
 ## Specifications
 - 8 kHz sampling rate support
