@@ -32,6 +32,10 @@ Open source wired mouse hardware.
 |4|GND|
 |5|Shield|
 
+## Firmware
+
+Sammy is meant to run on [openinput](https://github.com/openinput-fw/openinput).
+
 ## License
 
 This hardware is licensed under the [CERN-OHL-P v2](LICENSE) license.
