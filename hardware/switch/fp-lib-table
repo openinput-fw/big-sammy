@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name "Sensor_Tracking")(type "KiCad")(uri "/home/perigoso/Development/openinput-hw/hardware/kicad/modules/Sensor_Tracking.pretty")(options "")(descr ""))
-  (lib (name "Switches")(type "KiCad")(uri "/home/perigoso/Development/openinput-hw/hardware/kicad/modules/Switches.pretty")(options "")(descr ""))
+  (lib (name "Sensor_Tracking")(type "KiCad")(uri "${KIPRJMOD}/../kicad/modules/Sensor_Tracking.pretty")(options "")(descr ""))
+  (lib (name "Switches")(type "KiCad")(uri "${KIPRJMOD}/../kicad/modules/Switches.pretty")(options "")(descr ""))
 )
