@@ -18,7 +18,7 @@ Open source wired mouse hardware.
 ## Hardware
 
 - ATSAMS70 MCU (ATSAMS70JxxB-M)
-- PMW3360 Optical sensor
+- Optical sensor [PMW3330, PMW3360, PMW3389, Truemove3]
 - onboard conectors:
     - JST PH (2mm pitch) for USB
     - JST SH (1mm pitch) for stellite boards
