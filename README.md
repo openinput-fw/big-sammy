@@ -23,6 +23,14 @@ Open source firmware for input devices.
     - JST SH (1mm pitch) for stellite boards
 - M2 mounting hardware
 
+|USB pinout||
+|-----|-----|
+|1|VCC|
+|2|DM|
+|3|DP|
+|4|GND|
+|5|Shield|
+
 ## License
 
 This hardware is licensed under the [CERN-OHL-P v2](LICENSE) license.
