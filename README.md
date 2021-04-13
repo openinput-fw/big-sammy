@@ -11,6 +11,7 @@ Open source firmware for input devices.
 - 2 main mouse buttons (satellite* configuration for both)
 - 2 side buttons (symmetric to allow easy left/right handedness)
 - encoder + wheel button (satellite* configuration)
+- RGB Led
 
 `*meaning, a separate board from the core with the controller and sensor`
 
