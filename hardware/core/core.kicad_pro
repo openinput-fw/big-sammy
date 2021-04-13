@@ -368,7 +368,8 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "Sensor_Tracking"
+      "Sensor_Tracking",
+      "Switches"
     ],
     "pinned_symbol_libs": []
   },
@@ -468,7 +469,7 @@
   },
   "sheets": [
     [
-      "3291fd22-f6e1-4989-a60e-f336b7f7ccf9",
+      "99647485-da97-470a-b67c-d108d51ce8a7",
       ""
     ]
   ],
