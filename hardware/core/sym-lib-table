@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "mcu")(type "KiCad")(uri "/home/perigoso/Development/openinput-hw/hardware/kicad/library/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "sensor")(type "KiCad")(uri "/home/perigoso/Development/openinput-hw/hardware/kicad/library/sensor.kicad_sym")(options "")(descr ""))
+)
