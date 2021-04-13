@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "switch")(type "KiCad")(uri "/home/perigoso/Development/openinput-hw/hardware/kicad/library/switch.kicad_sym")(options "")(descr ""))
+)
