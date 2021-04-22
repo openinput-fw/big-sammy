@@ -17,6 +17,8 @@ Open source wired mouse hardware.
 
 ## Hardware
 
+<img src="assets/r0.1-core-render.png" alt="" width="50%">
+
 - ATSAMS70 MCU (ATSAMS70JxxB-M)
 - Optical sensor [PMW3330, PMW3360, PMW3389, Truemove3]
 - onboard conectors:
