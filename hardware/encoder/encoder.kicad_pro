@@ -68,7 +68,7 @@
         "annular_width": "error",
         "clearance": "error",
         "copper_edge_clearance": "error",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "ignore",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
@@ -466,7 +466,7 @@
   },
   "sheets": [
     [
-      "d82fa333-6007-4e7b-b0fc-36c60254f2e0",
+      "95ce1976-b66e-4723-a530-bc787574ef98",
       ""
     ]
   ],
