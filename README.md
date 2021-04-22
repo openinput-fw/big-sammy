@@ -1,4 +1,4 @@
-# sammy
+# big-sammy
 
 [<img src="assets/logo.svg" alt="" width="20%" align="right">](https://github.com/openinput-fw)
 
@@ -34,7 +34,7 @@ Open source wired mouse hardware.
 
 ## Firmware
 
-Sammy is meant to run on [openinput](https://github.com/openinput-fw/openinput).
+big-sammy is meant to run on [openinput](https://github.com/openinput-fw/openinput).
 
 ## License
 

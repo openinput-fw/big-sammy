@@ -6,10 +6,10 @@
 
   (paper "A5")
   (title_block
-    (title "sammy")
+    (title "big-sammy")
     (date "2021-04-10")
     (rev "r0.1")
-    (company "openinput                                      https://github.com/perigoso/openinput-hw")
+    (company "openinput                                   https://github.com/openinput-fw/big-big-sammy")
     (comment 2 "This source describes Open Hardware and is licensed under the CERN-OHL-Pv2")
     (comment 4 "Copyright (c) Rafael Silva")
   )

@@ -6,10 +6,10 @@
 
   (paper "A5")
   (title_block
-    (title "sammy")
+    (title "big-sammy")
     (date "2021-04-10")
     (rev "r0.1")
-    (company "openinput                                      https://github.com/perigoso/openinput-hw")
+    (company "openinput                                   https://github.com/openinput-fw/big-big-sammy")
     (comment 2 "This source describes Open Hardware and is licensed under the CERN-OHL-Pv2")
     (comment 4 "Copyright (c) Rafael Silva")
   )
@@ -5464,7 +5464,7 @@
   (gr_text "SW0NO" (at 102.69 38.8941) (layer "B.SilkS") (tstamp 52c012a8-4318-48c1-8c2d-335a4fc4799f)
     (effects (font (size 0.7 0.7) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "CERN-OHL-P v2\n\ngithub.com\nopeninput-fw/big-sammy" (at 112.525 72.075) (layer "B.SilkS") (tstamp 5b2a7085-5596-490a-b5dd-7d19eb1a637b)
+  (gr_text "CERN-OHL-P v2\n\ngithub.com\nopeninput-fw/big-big-sammy" (at 112.525 72.075) (layer "B.SilkS") (tstamp 5b2a7085-5596-490a-b5dd-7d19eb1a637b)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
   (gr_text "SW2NC" (at 122.365 40.6075) (layer "B.SilkS") (tstamp 5ffb34df-f8d9-43b6-9098-90d38115e404)
