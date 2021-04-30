@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name "Sensor_Tracking")(type "KiCad")(uri "${KIPRJMOD}/../kicad/modules/Sensor_Tracking.pretty")(options "")(descr ""))
-  (lib (name "Switches")(type "KiCad")(uri "${KIPRJMOD}/../kicad/modules/Switches.pretty")(options "")(descr ""))
-  (lib (name "led")(type "KiCad")(uri "/home/perigoso/Development/big-sammy/hardware/kicad/modules/led.pretty")(options "")(descr ""))
-  (lib (name "mounting")(type "KiCad")(uri "${KIPRJMOD}/../kicad/modules/mounting.pretty")(options "")(descr ""))
-)

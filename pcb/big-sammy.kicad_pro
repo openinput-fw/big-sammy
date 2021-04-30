@@ -45,7 +45,7 @@
         "silk_text_upright": true,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -367,11 +367,14 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Sensor_Tracking",
+      "Switches"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "encoder.kicad_pro",
+    "filename": "big-sammy.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -466,7 +469,7 @@
   },
   "sheets": [
     [
-      "95ce1976-b66e-4723-a530-bc787574ef98",
+      "573c9c07-ae6d-4399-af9a-7505e6216d90",
       ""
     ]
   ],
