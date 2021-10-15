@@ -1,5 +1,7 @@
 # big-sammy
 
+[![Documentation Status](https://readthedocs.org/projects/big-sammy/badge/?version=latest)](https://openinput.readthedocs.io/projects/big-sammy/en/latest/?badge=latest)
+
 [<img src="docs/assets/logo.svg" alt="" width="20%" align="right">](https://github.com/openinput-fw)
 
 Open source wired mouse hardware.
