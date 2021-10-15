@@ -1,6 +1,6 @@
 # big-sammy
 
-[<img src="assets/logo.svg" alt="" width="20%" align="right">](https://github.com/openinput-fw)
+[<img src="docs/assets/logo.svg" alt="" width="20%" align="right">](https://github.com/openinput-fw)
 
 Open source wired mouse hardware.
 
@@ -17,7 +17,7 @@ Open source wired mouse hardware.
 
 ## Hardware
 
-<img src="assets/r0.1-core-render.png" alt="" width="50%">
+<img src="docs/assets/r0.1-core-render.png" alt="" width="50%">
 
 - ATSAMS70 MCU (ATSAMS70JxxB-M)
 - Optical sensor [PMW3330, PMW3360, PMW3389, Truemove3]
