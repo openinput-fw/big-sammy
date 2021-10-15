@@ -59,5 +59,5 @@ First prototype.
    :caption: External Links
    :hidden:
 
-   Firmware <https://github.com/openinput-fw/openinput/>
+   Firmware <https://openinput.readthedocs.io>
    Issue Tracker <https://github.com/openinput-fw/big-sammy/issues>
