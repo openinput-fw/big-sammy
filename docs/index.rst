@@ -16,9 +16,9 @@ First prototype under testing, firmware support for openinput_ under development
 
    - Initial design |:+1:|
    - First prototype manufactured and assembled |:+1:|
-   - Barebones firmware support |:hammer:|
+   - Barebones firmware support |:+1:|
    - Documentation |:hammer:|
-   - Hardware improvements
+   - Hardware improvements |:hammer:|
    - First release
 
    ========== ================
