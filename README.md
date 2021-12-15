@@ -6,8 +6,7 @@
 
 Open source wired mouse hardware.
 
-Please see the [documentation](https://big-sammy.readthedocs.io/en/latest)
-for more information.
+Please see the [documentation](https://big-sammy.readthedocs.io/en/latest) for more information.
 
 ## Specifications
 - 8 kHz sampling rate support
@@ -22,7 +21,7 @@ for more information.
 
 ## Firmware
 
-big-sammy is meant to run on [openinput](https://github.com/openinput-fw/openinput).
+*big-sammy* is meant to run on [openinput](https://github.com/openinput-fw/openinput).
 
 ## License
 
